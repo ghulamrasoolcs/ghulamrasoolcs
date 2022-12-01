@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ghulam Rasool
 - 👀 I’m interested to doing coding, watching Cricket, Movies and Reading books.
 - 🌱 I have recently completed my Bachelor's Degree in Computer Systems Engineering from Mehran UET, Jamshoro, Sindh.
-- 💞️ I’m learing Full Stack Website Development from Circle Women.
+- 💞️ I’m learing Full Stack Website Development from Circle Women(TechKaro) sponsered by Engro.
+- ✨ I'm Also Data Scientist, Learning Python Programming, AI, ML and DL.
 - 📫 You can find me...
 - Gmail: ghulamrasoolcs36@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ghulamrasool1/
